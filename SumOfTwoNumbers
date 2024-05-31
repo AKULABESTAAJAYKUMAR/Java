@@ -7,4 +7,3 @@ int b=5;
 System.out.prntln(a+b);
 }
 }
-code has some error
